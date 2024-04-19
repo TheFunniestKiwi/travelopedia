@@ -1,0 +1,22 @@
+{
+  "destination": [
+    {
+      "id": "85.24549177156678",
+      "city": "Lublin",
+      "country": "Polska",
+      "daysNeded": 10
+    },
+    {
+      "id": "69.02590187297871",
+      "city": "Test",
+      "country": "Polska",
+      "daysNeded": 4
+    },
+    {
+      "id": "46.07240601392635",
+      "city": "Lublin",
+      "country": "Polska",
+      "daysNeded": 1
+    }
+  ]
+}
